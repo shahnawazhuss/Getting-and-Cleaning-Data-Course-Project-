@@ -63,7 +63,7 @@ The following table relates the 17 signals to the names used as prefix for the v
 
 For variables derived from mean and standard deviation estimation, the previous labels are augmented with the terms "Mean" or "StandardDeviation".
 
-The data set is written to the file sensor_avg_by_act_sub.txt.
+The data set is written to the file sensoravgbyactsub.txt.
 
 # References
 <a name="uci-har"/>Human Activity Recognition Using Smartphones Data Set. URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Accessed 05/21/2014
