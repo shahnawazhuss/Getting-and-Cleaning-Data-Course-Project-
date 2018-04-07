@@ -65,7 +65,7 @@ For variables derived from mean and standard deviation estimation, the previous 
 
 The data set is written to the file sensor_avg_by_act_sub.txt.
 
-References
+# References
 <a name="uci-har"/>Human Activity Recognition Using Smartphones Data Set. URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Accessed 05/21/2014
 <a name="har-smart"/>Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 <a name="activity-recognition"/>Activity recognition. URL: http://en.wikipedia.org/wiki/Activity_recognition. Accessed 05/21/2014
