@@ -59,7 +59,74 @@ The tidy data set contains 10299 observations with 81 variables divided in:
 * an identifier of the subject who carried out the experiment (Subject): 1, 3, 5, 6, 7, 8, 11, 14, 15, 16, 17, 19, 21, 22, 23, 25, 26, 27, 28, 29, 30
 * a 79-feature vector with time and frequency domain signal variables (numeric)
 The following table relates the 17 signals to the names used as prefix for the variables names present in the data set. ".XYZ" denotes three variables, one for each axis.
+# Measurements
 
+* TimeBodyAccelerometerMeanX
+* TimeBodyAccelerometerMeanY
+* TimeBodyAccelerometerMeanZ
+* TimeGravityAccelerometerMeanX
+* TimeGravityAccelerometerMeanY
+* TimeGravityAccelerometerMeanZ
+* TimeBodyAccelerometerJerkMeanX
+* TimeBodyAccelerometerJerkMeanY
+* TimeBodyAccelerometerJerkMeanZ
+* TimeBodyGyroscopeMeanX
+* TimeBodyGyroscopeMeanY
+* TimeBodyGyroscopeMeanZ
+* TimeBodyGyroscopeJerkMeanX
+* TimeBodyGyroscopeJerkMeanY
+* TimeBodyGyroscopeJerkMeanZ
+* TimeBodyAccelerometerMagnitudeMean
+* TimeGravityAccelerometerMagnitudeMean
+* TimeBodyAccelerometerJerkMagnitudeMean
+* TimeBodyGyroscopeMagnitudeMean
+* TimeBodyGyroscopeJerkMagnitudeMean
+* FrequencyBodyAccelerometerMeanX
+* FrequencyBodyAccelerometerMeanY
+* FrequencyBodyAccelerometerMeanZ
+* FrequencyBodyAccelerometerJerkMeanX
+* FrequencyBodyAccelerometerJerkMeanY
+* FrequencyBodyAccelerometerJerkMeanZ
+* FrequencyBodyGyroscopeMeanX
+* FrequencyBodyGyroscopeMeanY
+* FrequencyBodyGyroscopeMeanZ
+* FrequencyBodyAccelerometerMagnitudeMean
+* FrequencyBodyAccelerometerJerkMagnitudeMean
+* FrequencyBodyGyroscopeMagnitudeMean
+* FrequencyBodyGyroscopeJerkMagnitudeMean
+* TimeBodyAccelerometerStdX
+* TimeBodyAccelerometerStdY
+* TimeBodyAccelerometerStdZ
+* TimeGravityAccelerometerStdX
+* TimeGravityAccelerometerStdY
+* TimeGravityAccelerometerStdZ
+* TimeBodyAccelerometerJerkStdX
+* TimeBodyAccelerometerJerkStdY
+* TimeBodyAccelerometerJerkStdZ
+* TimeBodyGyroscopeStdX
+* TimeBodyGyroscopeStdY
+* TimeBodyGyroscopeStdZ
+* TimeBodyGyroscopeJerkStdX
+* TimeBodyGyroscopeJerkStdY
+* TimeBodyGyroscopeJerkStdZ
+* TimeBodyAccelerometerMagnitudeStd
+* TimeGravityAccelerometerMagnitudeStd
+* TimeBodyAccelerometerJerkMagnitudeStd
+* TimeBodyGyroscopeMagnitudeStd
+* TimeBodyGyroscopeJerkMagnitudeStd
+* FrequencyBodyAccelerometerStdX
+* FrequencyBodyAccelerometerStdY
+* FrequencyBodyAccelerometerStdZ
+* FrequencyBodyAccelerometerJerkStdX
+* FrequencyBodyAccelerometerJerkStdY
+* FrequencyBodyAccelerometerJerkStdZ
+* FrequencyBodyGyroscopeStdX
+* FrequencyBodyGyroscopeStdY
+* FrequencyBodyGyroscopeStdZ
+* FrequencyBodyAccelerometerMagnitudeStd
+* FrequencyBodyAccelerometerJerkMagnitudeStd
+* FrequencyBodyGyroscopeMagnitudeStd
+* FrequencyBodyGyroscopeJerkMagnitudeStd
 
 For variables derived from mean and standard deviation estimation, the previous labels are augmented with the terms "Mean" or "StandardDeviation".
 
